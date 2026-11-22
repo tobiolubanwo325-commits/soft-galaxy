@@ -1,0 +1,6 @@
+{
+  "name": "SOFT LIFE",
+  "description": "SOFT LIFE - Live Social & Interactive Platform with Live Video + Audio, 8-Seat Party Stages, and Virtual Economy",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
